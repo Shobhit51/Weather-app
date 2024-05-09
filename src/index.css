@@ -1,0 +1,22 @@
+.day {
+  background: radial-gradient(
+    circle at 10% 20%,
+    rgb(253, 239, 132) 0%,
+    rgb(247, 198, 169) 54.2%,
+    rgb(21, 186, 196) 100.3%
+  );
+  background-attachment: fixed;
+}
+.night {
+  background: linear-gradient(
+    171.8deg,
+    rgb(5, 111, 146) 13.5%,
+    rgb(6, 57, 84) 78.6%
+  );
+  background-attachment: fixed;
+}
+
+.night .Footer,
+.night .Footer a {
+  color: white;
+}

@@ -24,15 +24,11 @@ WeatherWise is a React-based weather forecast web application that provides user
 
 git clone https://github.com/your_username/WeatherWise.git
 
-css
-Copy code
 
 2. Navigate to the project directory:
 
-cd WeatherWise
+cd Weather app
 
-markdown
-Copy code
 
 3. Install dependencies:
 
